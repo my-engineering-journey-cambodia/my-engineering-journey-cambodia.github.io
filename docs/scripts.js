@@ -61,4 +61,35 @@
       }
     });
   }
+
+  if (window.Swiper && document.querySelector(".members-swiper")) {
+    new Swiper(".members-swiper", {
+      slidesPerView: 1,
+      spaceBetween: 18,
+      loop: true,
+      autoplay: {
+        delay: 3200,
+        disableOnInteraction: false
+      },
+      navigation: {
+        nextEl: ".members-swiper-next",
+        prevEl: ".members-swiper-prev"
+      },
+      pagination: {
+        el: ".members-swiper-pagination",
+        clickable: true
+      },
+      breakpoints: {
+        700: {
+          slidesPerView: 2
+        },
+        1000: {
+          slidesPerView: 3
+        },
+        1280: {
+          slidesPerView: 4
+        }
+      }
+    });
+  }
 });
