@@ -64,7 +64,7 @@
 
   if (window.Swiper && document.querySelector(".members-swiper")) {
     new Swiper(".members-swiper", {
-      slidesPerView: 1,
+      slidesPerView: "auto",
       spaceBetween: 18,
       loop: true,
       autoplay: {
@@ -79,17 +79,7 @@
         el: ".members-swiper-pagination",
         clickable: true
       },
-      breakpoints: {
-        700: {
-          slidesPerView: 2
-        },
-        1000: {
-          slidesPerView: 3
-        },
-        1280: {
-          slidesPerView: 4
-        }
-      }
+      breakpoints: {}
     });
   }
 });
