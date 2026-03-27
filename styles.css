@@ -198,6 +198,8 @@ a {
   padding: 1.2rem;
   background: #fff;
   transition: 300ms transform ease, 300ms box-shadow ease, 300ms border-color ease, 300ms background-color ease;
+  min-height: 320px;
+  height: 100%;
 }
 
 .recent-post-card:hover {
@@ -210,6 +212,10 @@ a {
 .recent-post-card p {
   color: var(--mejc-gray);
   margin: 0.5rem 0 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
 .blog-swiper-prev,
@@ -264,6 +270,9 @@ a {
   padding: 0.6rem;
   background: #fff;
   transition: transform 240ms ease, box-shadow 240ms ease;
+  min-height: 210px;
+  display: flex;
+  flex-direction: column;
 }
 
 .video-card-link:hover .video-card {
@@ -298,6 +307,11 @@ a {
 .video-card h4 {
   font-size: 0.95rem;
   margin: 0.55rem 0 0.2rem;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  min-height: 2.6em;
 }
 
 .video-card p {
@@ -328,7 +342,7 @@ a {
   background: #fff;
   transition: transform 220ms ease, box-shadow 220ms ease;
   width: 250px;
-  min-height: 350px;
+  min-height: 360px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -407,6 +421,9 @@ a {
   background: #fff;
   overflow: hidden;
   transition: transform 240ms ease, box-shadow 240ms ease;
+  min-height: 240px;
+  display: flex;
+  flex-direction: column;
 }
 
 .media-link {
@@ -433,6 +450,18 @@ a {
 .media-card h3 {
   font-size: 1rem;
   margin: 0 0 0.3rem;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  min-height: 2.6em;
+}
+
+.blog-slide-image,
+.video-thumb,
+.member-avatar,
+.media-card img {
+  background: #f1f3f6;
 }
 
 .media-card p {
