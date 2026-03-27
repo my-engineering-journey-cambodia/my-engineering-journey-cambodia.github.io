@@ -1,0 +1,16 @@
+---
+title: "Videos"
+---
+
+Explore interviews, webinar highlights, and engineering event videos from MEJC.
+
+::: {.media-grid}
+<a class="media-link" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer"><article class="media-card"><img src="https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&w=900&q=80" alt="Interview thumbnail" /><div class="content"><h3>Interview: Career Growth in Industry</h3><p>Jan 2026 • 18:22</p></div></article></a>
+<a class="media-link" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer"><article class="media-card"><img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=900&q=80" alt="Webinar thumbnail" /><div class="content"><h3>Webinar: Engineering Leadership</h3><p>Jan 2026 • 52:40</p></div></article></a>
+<a class="media-link" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer"><article class="media-card"><img src="https://images.unsplash.com/photo-1581092160607-ee22731f9c68?auto=format&fit=crop&w=900&q=80" alt="Factory thumbnail" /><div class="content"><h3>Factory Visit: Production Excellence</h3><p>Dec 2025 • 14:11</p></div></article></a>
+<a class="media-link" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer"><article class="media-card"><img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=80" alt="Workshop thumbnail" /><div class="content"><h3>Workshop: Mechanical Design Tools</h3><p>Dec 2025 • 26:03</p></div></article></a>
+<a class="media-link" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer"><article class="media-card"><img src="https://images.unsplash.com/photo-1581093057305-25f9f8d89e84?auto=format&fit=crop&w=900&q=80" alt="Alumni panel thumbnail" /><div class="content"><h3>Alumni Panel: Lessons from Real Projects</h3><p>Nov 2025 • 37:22</p></div></article></a>
+<a class="media-link" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer"><article class="media-card"><img src="https://images.unsplash.com/photo-1517048676732-d65bc937f952?auto=format&fit=crop&w=900&q=80" alt="Student talk thumbnail" /><div class="content"><h3>Student Talk: Internship Readiness</h3><p>Nov 2025 • 21:09</p></div></article></a>
+<a class="media-link" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer"><article class="media-card"><img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=900&q=80" alt="Team collaboration thumbnail" /><div class="content"><h3>Engineering Collaboration in Practice</h3><p>Oct 2025 • 12:32</p></div></article></a>
+<a class="media-link" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer"><article class="media-card"><img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80" alt="Digital tools thumbnail" /><div class="content"><h3>Digital Tools for Young Engineers</h3><p>Oct 2025 • 17:44</p></div></article></a>
+:::

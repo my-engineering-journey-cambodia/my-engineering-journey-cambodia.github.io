@@ -1,19 +1,34 @@
 project:
   type: website
+  output-dir: _site
 
 website:
-  title: "mjec"
+  title: "My Engineering Journey Cambodia"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: Home
+        href: index.qmd
+      - text: Blog
+        href: blog.qmd
+      - text: Videos
+        href: videos.qmd
+      - text: About Us
+        href: about.qmd
+    right:
+      - icon: github
+        href: https://github.com/my-engineering-journey-cambodia
+  page-footer:
+    left: "My Engineering Journey Cambodia"
+    right: "Inspiring Future Engineers"
 
 format:
   html:
     theme: cosmo
+    anchor-sections: false
+    toc: false
+    smooth-scroll: true
     css: styles.css
-    toc: true
+    include-in-header: head.html
+    include-after-body: scripts.html
 
-editor: visual
-
+editor: source

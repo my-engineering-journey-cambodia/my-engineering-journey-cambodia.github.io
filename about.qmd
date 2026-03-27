@@ -1,9 +1,25 @@
 ---
-title: "About"
+title: "About Us"
 ---
 
-About this site
+::: {.about-panel}
+## Our Mission
 
-```{r}
-1 + 1
-```
+“My Engineering Journey Cambodia” is the program that promote activities in field Industrial and Mechanical Engineering in Cambodia by host the event and campaign making in order to share and spread incredible journey experiences to the young generation. MEJC is play the essential role as the bridge that connect alumni in the Industrial and Mechanical Engineering community, inspiring Cambodia’s youth.
+
+::: {.about-values}
+<article>
+  <h3>Community Bridge</h3>
+  <p>We connect ITC alumni and current students through practical mentorship and networking activities.</p>
+</article>
+<article>
+  <h3>Engineering Exposure</h3>
+  <p>We host interviews, webinars, and campaigns to make engineering careers visible and accessible.</p>
+</article>
+<article>
+  <h3>Youth Inspiration</h3>
+  <p>We share real journey experiences that help young Cambodians imagine and pursue meaningful futures.</p>
+</article>
+:::
+:::
+

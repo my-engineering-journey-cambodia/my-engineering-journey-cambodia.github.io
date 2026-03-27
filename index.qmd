@@ -1,11 +1,132 @@
+﻿---
+title: "My Engineering Journey Cambodia"
 ---
-title: "mjec"
----
 
-This is a Quarto website.
+::: {.hero}
+# My Engineering Journey Cambodia
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Inspiring Cambodia's youth through Industrial and Mechanical Engineering stories, alumni connection, and practical events that turn ambition into real-world journeys.
 
-```{r}
-1 + 1
-```
+<div class="hero-actions">
+  <a class="hero-btn hero-btn-primary" href="blog.html">Read Blog</a>
+  <a class="hero-btn hero-btn-secondary" href="videos.html">Watch Videos</a>
+</div>
+:::
+
+::: {.section-title}
+## Recent Blog Stories
+<span class="chip">Blog Slider</span>
+:::
+
+~~~{=html}
+<div class="blog-slider-shell">
+  <div class="swiper blog-swiper">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <a class="recent-post-card" href="blog/posts/bridge-between-alumni-and-youth.html">
+          <img class="blog-slide-image" src="https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1200&q=80" alt="Bridge between alumni and youth" />
+          <h3>Building the Bridge Between Alumni and Youth</h3>
+          <p>How MEJC activities connect experience with the next generation.</p>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a class="recent-post-card" href="blog/posts/webinar-smart-manufacturing.html">
+          <img class="blog-slide-image" src="https://images.unsplash.com/photo-1581091870622-2f2de72e5f7a?auto=format&fit=crop&w=1200&q=80" alt="Smart manufacturing webinar" />
+          <h3>Webinar Recap: Smart Manufacturing in Cambodia</h3>
+          <p>Highlights from our discussion on practical Industry 4.0 adoption.</p>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a class="recent-post-card" href="blog/posts/interview-mechanical-career-roadmap.html">
+          <img class="blog-slide-image" src="https://images.unsplash.com/photo-1581092918484-8313b3ad67de?auto=format&fit=crop&w=1200&q=80" alt="Mechanical career interview" />
+          <h3>Interview: Mechanical Career Roadmap for Students</h3>
+          <p>Advice from alumni on internships, projects, and professional growth.</p>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a class="recent-post-card" href="blog/posts/campaign-inspiring-future-engineers.html">
+          <img class="blog-slide-image" src="https://images.unsplash.com/photo-1529078155058-5d716f45d604?auto=format&fit=crop&w=1200&q=80" alt="Inspiring future engineers campaign" />
+          <h3>Campaign Spotlight: Inspiring Future Engineers</h3>
+          <p>How campaign activities helped students discover engineering pathways.</p>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a class="recent-post-card" href="blog/posts/event-reflection-industry-meetup.html">
+          <img class="blog-slide-image" src="https://images.unsplash.com/photo-1531058020387-3be344556be6?auto=format&fit=crop&w=1200&q=80" alt="Industry meetup event" />
+          <h3>Event Reflection: Industry Meetup in Phnom Penh</h3>
+          <p>Discussions between students, alumni, and engineering leaders.</p>
+        </a>
+      </div>
+    </div>
+  </div>
+  <button class="blog-swiper-prev" aria-label="Previous blog post">&lsaquo;</button>
+  <button class="blog-swiper-next" aria-label="Next blog post">&rsaquo;</button>
+  <div class="blog-swiper-pagination"></div>
+</div>
+~~~
+
+::: {.section-title}
+## Featured Videos
+<span class="chip">6x6 Grid</span>
+:::
+
+~~~{=html}
+<div class="video-grid">
+  <a class="video-card-link" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer"><article class="video-card"><div class="video-thumb-wrap"><img class="video-thumb" src="https://images.unsplash.com/photo-1581092580497-e0d23cbdf1dc?auto=format&fit=crop&w=800&q=80" alt="Factory Automation Basics thumbnail" /><span class="video-duration">12:42</span></div><h4>Factory Automation Basics</h4><p>2026-01-12</p></article></a>
+  <a class="video-card-link" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer"><article class="video-card"><div class="video-thumb-wrap"><img class="video-thumb" src="https://images.unsplash.com/photo-1581092580497-e0d23cbdf1dc?auto=format&fit=crop&w=800&q=80" alt="Alumni Spotlight thumbnail" /><span class="video-duration">19:10</span></div><h4>Alumni Spotlight: Mechanical Lead</h4><p>2026-01-08</p></article></a>
+  <a class="video-card-link" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer"><article class="video-card"><div class="video-thumb-wrap"><img class="video-thumb" src="https://images.unsplash.com/photo-1581092580497-e0d23cbdf1dc?auto=format&fit=crop&w=800&q=80" alt="Webinar thumbnail" /><span class="video-duration">54:22</span></div><h4>Webinar: Sustainable Manufacturing</h4><p>2026-01-02</p></article></a>
+  <a class="video-card-link" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer"><article class="video-card"><div class="video-thumb-wrap"><img class="video-thumb" src="https://images.unsplash.com/photo-1581092580497-e0d23cbdf1dc?auto=format&fit=crop&w=800&q=80" alt="Interview thumbnail" /><span class="video-duration">16:48</span></div><h4>Interview: Women in Engineering</h4><p>2025-12-21</p></article></a>
+  <a class="video-card-link" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer"><article class="video-card"><div class="video-thumb-wrap"><img class="video-thumb" src="https://images.unsplash.com/photo-1581092580497-e0d23cbdf1dc?auto=format&fit=crop&w=800&q=80" alt="Machine Design thumbnail" /><span class="video-duration">21:07</span></div><h4>Machine Design Crash Course</h4><p>2025-12-18</p></article></a>
+  <a class="video-card-link" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer"><article class="video-card"><div class="video-thumb-wrap"><img class="video-thumb" src="https://images.unsplash.com/photo-1581092580497-e0d23cbdf1dc?auto=format&fit=crop&w=800&q=80" alt="Campus to Career thumbnail" /><span class="video-duration">14:29</span></div><h4>Campus to Career Journey</h4><p>2025-12-10</p></article></a>
+  <a class="video-card-link" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer"><article class="video-card"><div class="video-thumb-wrap"><img class="video-thumb" src="https://images.unsplash.com/photo-1581092580497-e0d23cbdf1dc?auto=format&fit=crop&w=800&q=80" alt="Panel thumbnail" /><span class="video-duration">43:11</span></div><h4>Panel: Future of Industry 4.0</h4><p>2025-12-02</p></article></a>
+  <a class="video-card-link" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer"><article class="video-card"><div class="video-thumb-wrap"><img class="video-thumb" src="https://images.unsplash.com/photo-1581092580497-e0d23cbdf1dc?auto=format&fit=crop&w=800&q=80" alt="Workshop thumbnail" /><span class="video-duration">35:45</span></div><h4>Workshop: CAD for Beginners</h4><p>2025-11-27</p></article></a>
+  <a class="video-card-link" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer"><article class="video-card"><div class="video-thumb-wrap"><img class="video-thumb" src="https://images.unsplash.com/photo-1581092580497-e0d23cbdf1dc?auto=format&fit=crop&w=800&q=80" alt="Plant Manager thumbnail" /><span class="video-duration">22:09</span></div><h4>Interview: Plant Manager in Phnom Penh</h4><p>2025-11-18</p></article></a>
+  <a class="video-card-link" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer"><article class="video-card"><div class="video-thumb-wrap"><img class="video-thumb" src="https://images.unsplash.com/photo-1581092580497-e0d23cbdf1dc?auto=format&fit=crop&w=800&q=80" alt="Lean thumbnail" /><span class="video-duration">47:23</span></div><h4>Webinar: Lean Manufacturing</h4><p>2025-11-11</p></article></a>
+  <a class="video-card-link" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer"><article class="video-card"><div class="video-thumb-wrap"><img class="video-thumb" src="https://images.unsplash.com/photo-1581092580497-e0d23cbdf1dc?auto=format&fit=crop&w=800&q=80" alt="Alumni Advice thumbnail" /><span class="video-duration">17:12</span></div><h4>Alumni Advice for ITC Students</h4><p>2025-11-04</p></article></a>
+  <a class="video-card-link" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer"><article class="video-card"><div class="video-thumb-wrap"><img class="video-thumb" src="https://images.unsplash.com/photo-1581092580497-e0d23cbdf1dc?auto=format&fit=crop&w=800&q=80" alt="Hydraulics thumbnail" /><span class="video-duration">11:35</span></div><h4>Hydraulics Essentials</h4><p>2025-10-29</p></article></a>
+</div>
+~~~
+
+::: {.section-title}
+## Our Members
+<span class="chip">Horizontal Community Cards</span>
+:::
+
+~~~{=html}
+<div class="members-scroll">
+  <div class="member-track">
+    <article class="member-card"><img class="member-avatar" src="https://i.pravatar.cc/500?img=1" alt="Dara Chheang" /><h4>Dara Chheang</h4><div class="member-role">Industrial Engineer</div><ul><li>Current job: Process Improvement Specialist</li><li>ITC alumni: Batch 2018</li></ul></article>
+    <article class="member-card"><img class="member-avatar" src="https://i.pravatar.cc/500?img=2" alt="Sophea Lim" /><h4>Sophea Lim</h4><div class="member-role">Mechanical Design Engineer</div><ul><li>Current job: Product Development Engineer</li><li>ITC alumni: Batch 2019</li></ul></article>
+    <article class="member-card"><img class="member-avatar" src="https://i.pravatar.cc/500?img=3" alt="Rithy Phan" /><h4>Rithy Phan</h4><div class="member-role">Project Engineer</div><ul><li>Current job: Industrial Projects Coordinator</li><li>ITC alumni: Batch 2017</li></ul></article>
+    <article class="member-card"><img class="member-avatar" src="https://i.pravatar.cc/500?img=4" alt="Malis Keo" /><h4>Malis Keo</h4><div class="member-role">Operations Engineer</div><ul><li>Current job: Plant Operations Supervisor</li><li>ITC alumni: Batch 2016</li></ul></article>
+    <article class="member-card"><img class="member-avatar" src="https://i.pravatar.cc/500?img=5" alt="Bora Yean" /><h4>Bora Yean</h4><div class="member-role">Manufacturing Engineer</div><ul><li>Current job: Manufacturing Line Engineer</li><li>ITC alumni: Batch 2020</li></ul></article>
+    <article class="member-card"><img class="member-avatar" src="https://i.pravatar.cc/500?img=6" alt="Sokun Chan" /><h4>Sokun Chan</h4><div class="member-role">Maintenance Engineer</div><ul><li>Current job: Reliability Engineer</li><li>ITC alumni: Batch 2015</li></ul></article>
+    <article class="member-card"><img class="member-avatar" src="https://i.pravatar.cc/500?img=7" alt="Vanna Oum" /><h4>Vanna Oum</h4><div class="member-role">Quality Engineer</div><ul><li>Current job: Quality Assurance Engineer</li><li>ITC alumni: Batch 2018</li></ul></article>
+    <article class="member-card"><img class="member-avatar" src="https://i.pravatar.cc/500?img=8" alt="Nita Hor" /><h4>Nita Hor</h4><div class="member-role">Industrial Systems Engineer</div><ul><li>Current job: Systems Analyst Engineer</li><li>ITC alumni: Batch 2019</li></ul></article>
+  </div>
+</div>
+~~~
+
+::: {.section-title}
+## Our Partners
+<span class="chip">Sliding Logos</span>
+:::
+
+~~~{=html}
+<div class="partner-track">
+  <div class="partner-row">
+    <img class="partner-logo" src="https://logo.clearbit.com/siemens.com" alt="Siemens" />
+    <img class="partner-logo" src="https://logo.clearbit.com/michelin.com" alt="Michelin" />
+    <img class="partner-logo" src="https://logo.clearbit.com/3m.com" alt="3M" />
+    <img class="partner-logo" src="https://logo.clearbit.com/bosch.com" alt="Bosch" />
+    <img class="partner-logo" src="https://logo.clearbit.com/schneider-electric.com" alt="Schneider Electric" />
+    <img class="partner-logo" src="https://logo.clearbit.com/mitsubishielectric.com" alt="Mitsubishi Electric" />
+    <img class="partner-logo" src="https://logo.clearbit.com/siemens.com" alt="Siemens repeat" />
+    <img class="partner-logo" src="https://logo.clearbit.com/michelin.com" alt="Michelin repeat" />
+    <img class="partner-logo" src="https://logo.clearbit.com/3m.com" alt="3M repeat" />
+    <img class="partner-logo" src="https://logo.clearbit.com/bosch.com" alt="Bosch repeat" />
+    <img class="partner-logo" src="https://logo.clearbit.com/schneider-electric.com" alt="Schneider repeat" />
+    <img class="partner-logo" src="https://logo.clearbit.com/mitsubishielectric.com" alt="Mitsubishi repeat" />
+  </div>
+</div>
+~~~

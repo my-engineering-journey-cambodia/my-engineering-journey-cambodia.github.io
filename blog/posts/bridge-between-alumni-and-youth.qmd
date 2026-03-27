@@ -1,0 +1,10 @@
+---
+title: "Building the Bridge Between Alumni and Youth"
+date: 2026-01-20
+description: "How alumni engagement helps Cambodian engineering students learn faster and grow with confidence."
+image: "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1200&q=80"
+categories: [Community, Alumni]
+---
+
+MEJC creates opportunities where alumni can share lessons that students rarely get from textbooks. Through regular events, students gain practical direction and stronger motivation.
+

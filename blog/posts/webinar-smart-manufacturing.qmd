@@ -1,0 +1,10 @@
+---
+title: "Webinar Recap: Smart Manufacturing in Cambodia"
+date: 2026-01-14
+description: "Key takeaways from our session on automation, data, and the future of factories."
+image: "https://images.unsplash.com/photo-1581091870622-2f2de72e5f7a?auto=format&fit=crop&w=1200&q=80"
+categories: [Webinar, Industrial]
+---
+
+The webinar highlighted practical adoption paths for smart manufacturing in Cambodian industries, with clear first steps for students and young professionals.
+
